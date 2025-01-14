@@ -3,5 +3,5 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && re
 ```
 
 ```
-sudo apt-get install gnupg -y && sudo apt install iptables && wget https://raw.githubusercontent.com/king-vpn/order/main/installer.sh && chmod +x installer.sh && ./installer.sh
+sudo apt-get install gnupg -y && sudo apt install iptables && wget https://raw.githubusercontent.com/User058/lavi/min/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
